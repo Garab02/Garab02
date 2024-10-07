@@ -1,3 +1,4 @@
+[![@Garab's holopin board](https://www.holopin.io/hacktoberfest2024/userbadge/cm1wkb0cc08870cl5mb1m55l0)]
 <h1 align="center">Hi 👋, I'm Garab</h1>
 <h3 align="center">A passionate junior web developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
